@@ -16,4 +16,5 @@ Right now this only works in Firefox with the [Greasemonkey](https://addons.mozi
 
 1. Enable the "Unread message icon" in [Gmail Labs](https://mail.google.com/mail/#settings/labs) -- the script will **NOT** work without this turned on. <img src="http://labs.hami.sh/gmail-inbox-signature/screen2.png" width="729" height="149" />
 
-2. Then just download the `*.user.js` file and open it in Firefox. Greasemonkey will prompt you for installation. Reload Gmail. Then add `%UNREAD%` to your Gmail signature and it should be replaced by the number of unread messages when you compose a new message, or a reply.
+2. **[Download The Latest Userscript](https://github.com/hamstu/gmail-inbox-signature/raw/master/gmail-inbox-signature.user.js)** in Firefox.
+Greasemonkey will prompt you for installation. Reload Gmail. Then add `%UNREAD%` to your Gmail signature and it should be replaced by the number of unread messages when you compose a new message, or a reply.
